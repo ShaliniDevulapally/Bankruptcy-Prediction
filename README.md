@@ -1,1 +1,3 @@
 # Bankruptcy-Prediction
+This model was aimed to analyze a wide range of financial and non-financial indicators, to identify patterns and early warning signs of potential bankruptcy. By detecting warning signals at an early stage, businesses and financial institutions can take proactive measures to mitigate risks and avoid financial losses. Predicting bankruptcy using ML can lead to significant cost savings. By identifying high-risk entities early on, financial institutions can allocate resources more efficiently and focus on managing relationships with low-risk clients. This helps mitigate potential losses and avoid unnecessary expenses associated with non-performing loans or bankruptcies.
+      
